@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x 1 adisatolani1 adisatolani1 262 Sep  5 23:24 .
+drwxr-xr-x 1 adisatolani1 adisatolani1 150 Sep  5 16:41 ..
+-rwxr--r-- 1 adisatolani1 adisatolani1  30 Sep  5 17:04 0-hello_world
+-rwxr--r-- 1 adisatolani1 adisatolani1  20 Sep  5 17:44 1-confused_smiley
+-rwxr--r-- 1 adisatolani1 adisatolani1  28 Sep  5 17:53 2-hellofile
+-rwxr--r-- 1 adisatolani1 adisatolani1  39 Sep  5 18:02 3-twofiles
+-rwxr--r-- 1 adisatolani1 adisatolani1  33 Sep  5 18:04 4-lastlines
+-rwxr--r-- 1 adisatolani1 adisatolani1  33 Sep  5 18:07 5-firstlines
+-rwxr--r-- 1 adisatolani1 adisatolani1  36 Sep  5 18:21 6-third_line
+-rwxr--r-- 1 adisatolani1 adisatolani1  72 Sep  5 23:12 7-file
+-rwxr--r-- 1 adisatolani1 adisatolani1  37 Sep  5 23:25 8-cwd_state
+-rw-r--r-- 1 adisatolani1 adisatolani1 207 Sep  5 18:19 iacta
+-rw-r--r-- 1 adisatolani1 adisatolani1   0 Sep  5 23:25 ls_cwd_content
+-rw-r--r-- 1 adisatolani1 adisatolani1  68 Sep  5 17:04 README.md
