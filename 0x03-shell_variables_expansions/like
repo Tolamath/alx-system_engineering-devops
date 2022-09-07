@@ -1,0 +1,7 @@
+#!/bin/bash 
+Printf "%x"
+#!/bin/bash 
+Printf "%xn"
+#!/bin/bash 
+Printf "%x"
+""
